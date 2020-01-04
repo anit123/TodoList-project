@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
 
-export class TodoInput extends Component {
+class TodoInput extends Component {
     render() {
         return (
             <div>
-                
+                <h1>Helo from todo input</h1>
             </div>
         )
     }
